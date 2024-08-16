@@ -1,0 +1,15 @@
+Results for K=2:
+Accuracies: 0.9356405585913783
+
+Results for K=3:
+Accuracies: 0.9356405585913782
+
+Results for K=4:
+Accuracies: 0.9356382598757054
+
+Results for K=5:
+Accuracies: 0.9356192517189035
+
+Results for K=6:
+Accuracies: 0.9356227008107433
+

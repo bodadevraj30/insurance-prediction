@@ -1,0 +1,30 @@
+Yes = 1
+No = 0
+
+C_num = num
+
+Petrol = 0
+Diesel = 1
+CNG = 2
+
+Drum = 0
+Disc = 1
+
+Automatic = 0
+Manual = 1
+
+Electric = 0
+Power = 1
+Manual = 2
+
+F8D 0 Engine                  0
+1.5 L U2 CRDi                 1
+K Series Dual jet             2
+K10C                          3
+1.2 L K Series Engine         4
+1.0 SCe                       5
+i-DTEC                        6
+1.5 Turbocharged Revotorq     7
+G12B                          8
+1.2 L K12N Dualjet            9
+1.5 Turbocharged Revotron     10

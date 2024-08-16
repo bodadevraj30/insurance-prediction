@@ -1,0 +1,3 @@
+Results for K=2:
+Accuracy: 0.9356405585913783
+
